@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/716/trunk/dooframework/auth
+END
+DooAcl.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/716/trunk/dooframework/auth/DooAcl.php
+END
+DooAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/715/trunk/dooframework/auth/DooAuth.php
+END
+DooDigestAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/682/trunk/dooframework/auth/DooDigestAuth.php
+END
+DooRbAcl.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/495/trunk/dooframework/auth/DooRbAcl.php
+END
